@@ -1,0 +1,1 @@
+docker exec -ti web_django bash
